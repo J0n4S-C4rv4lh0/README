@@ -1,6 +1,8 @@
 <p width="100%" align="center">
-    <img src="./image/image.png" width="1200">
+    <img src="./image/logo.png" width="120px">
 </p>
+
+![logo](./image/foto.jpg)
 
 <h1 id="descricaoprojeto" align="center" >Padrão README</h1>
 
